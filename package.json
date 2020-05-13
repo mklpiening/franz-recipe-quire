@@ -1,0 +1,13 @@
+{
+  "id": "quire",
+  "name": "Quire",
+  "version": "1.0.0",
+  "description": "Quire",
+  "main": "index.js",
+  "author": "",
+  "license": "",
+  "repository": "",
+  "config": {
+    "serviceURL": "https://quire.io/w/"
+  }
+}
