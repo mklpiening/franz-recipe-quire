@@ -4,9 +4,8 @@
   "version": "1.0.0",
   "description": "Quire",
   "main": "index.js",
-  "author": "",
-  "license": "",
-  "repository": "",
+  "author": "Malte kleine Piening <malte@klpiening.de>",
+  "license": "BSD",
   "config": {
     "serviceURL": "https://quire.io/w/"
   }
